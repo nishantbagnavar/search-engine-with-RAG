@@ -10,5 +10,6 @@ faiss-cpu
 pypdf
 arxiv
 wikipedia-api
+wikipedia
 transformers
 huggingface-hub
