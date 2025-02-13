@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-community
+faiss-cpu
+pypdf
+arxiv
+wikipedia-api
+transformers
+huggingface-hub
